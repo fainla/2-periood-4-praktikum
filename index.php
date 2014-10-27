@@ -13,7 +13,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>praktikum 2.4</title>
+	<title>2-periood-4-praktikum</title>
 </head>
 <body>
 
